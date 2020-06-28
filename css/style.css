@@ -34,3 +34,7 @@ body{
 .team {
     padding: 0px 80px;
 }
+.member img:hover {
+    box-shadow: 2px 4px 18px 4px #6c1e1e;
+    border: 7px solid #fff;
+}
