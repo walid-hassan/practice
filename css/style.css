@@ -4,6 +4,7 @@ body{
 .member img {
     border-radius: 50%;
     border: 7px solid #d44171;
+    box-shadow: 2px 4px 18px 4px #000;
 }
 .member {
     text-align: center;
