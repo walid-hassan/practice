@@ -39,3 +39,8 @@ body{
     box-shadow: 2px 4px 18px 4px #6c1e1e;
     border: 7px solid #fff;
 }
+.member a:hover {
+    color: #d44171;
+    background: #fff;
+    box-shadow: 0px 0px 10px 5px #e8e8e8a6;
+}
