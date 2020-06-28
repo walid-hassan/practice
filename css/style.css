@@ -5,6 +5,7 @@ body{
     border-radius: 50%;
     border: 7px solid #d44171;
     box-shadow: 2px 4px 18px 4px #000;
+    transition: 600ms;
 }
 .member {
     text-align: center;
